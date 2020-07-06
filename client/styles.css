@@ -1,0 +1,31 @@
+.title {
+  text-align: center;
+}
+
+.mew-form,
+.loading {
+  width: 50%;
+  margin: auto;
+}
+
+.loading {
+  text-align: center;
+}
+
+.mews {
+  width: 80%;
+  margin: auto;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 1em;
+}
+
+.mews div {
+  margin-bottom: 15px;
+  background-color: #eee;
+  padding: 15px;
+  box-shadow: 5px 5px #ccc;
+}
